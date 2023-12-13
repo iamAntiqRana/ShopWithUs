@@ -4,3 +4,5 @@ Users are provided with the flexibility to complete transactions using their Pay
 card at the checkout stage.
 The admin panel plays a crucial role in simplifying the addition of new products to the platform and effectively
 managing updates in order tracking, ensuring efficient oversight and operational control.
+## Technologies used: HTML,CSS,Bootstrap,Django
+## DBMS used: SQlite
